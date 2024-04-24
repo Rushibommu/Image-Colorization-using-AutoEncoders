@@ -31,7 +31,7 @@ The model was trained with an optimal 35 epochs and with 160 x 160 grayscale and
 - Python 3.10.6
 - Tensorflow
 - NumPy
-- Pillow
-- Streamlit
+- cv2
+- seaborn
 
 Install the required packages using `pip`:
